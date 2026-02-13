@@ -21,8 +21,9 @@ Hello, I'm a computer science student from Ontario, Canada. I first started codi
 
 <br/>
 <br/>
+<br/>
 Reach Me
-
+<br/>
 <a href="https://discordapp.com/users/480169040854253578">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
