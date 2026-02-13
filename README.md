@@ -1,9 +1,10 @@
 # Ryan Compton
 
-Hello, I'm a computer science student from Ontario, Canada. I first started coding years ago, when I participated in my computer engineering class' LEGO Mindstorms' robot-building activity, where we used simple block coding to have the robot carry out the tasks that we programmed it to do. I found this incredible, allowing me to create programs that could do whatever my imagination and knowledge would allow. The freedom and versatility made it something that stuck with me after that, driving me to learn more about computers and eventually start coding in languages like Python. I enjoy both frontend and backend development, as well as experimenting with Unreal Engine, and I view challenges as opportunities to learn.
+Hello, I'm a computer science student from Ontario, Canada. I first started coding years ago, when I participated in my computer engineering class' LEGO Mindstorms' robot-building activity, where we used simple block coding to have the robot carry out the tasks that we programmed it to do. I found this incredible, allowing me to create programs that could do whatever my imagination and knowledge would allow. The freedom and versatility made it something that stuck with me after that, driving me to learn more about computers and eventually start coding in languages like Python. I enjoy both frontend and backend development, as well as experimenting with various programs such as Unreal Engine. 
 
 ## About Me
 - Full Stack Developer
+- I view challenges as opportunities to learn.
 - Always looking to learn and grow as a developer
 - Greatly enjoys problem-solving
 - Enjoys working in a team as both a leader and collaborator
