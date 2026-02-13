@@ -1,16 +1,15 @@
-## Hi there 👋
+*Ryan Compton*
 
-<!--
-**ryancompton27/ryancompton27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm a computer science student from Ontario, Canada. My greatest skills are problem-solving and learning. I first started my journey years ago, when I participated in my computer engineering class' LEGO Mindstorms' robot-building activity, where we used simple block coding to have the robot carry out the tasks that we programmed it to do. I found this incredible, allowing me to create programs that could do whatever my imagination and knowledge would allow. The freedom and versatility made it something that stuck with me after that, driving me to learn more about computers and eventually start coding in languages like Python. 
+I enjoy both frontend and backend development, as well as messing around in Unreal Engine, and I see challenges as an opportunity to learn. 
 
-Here are some ideas to get you started:
+**About Me**
+- Full Stack Developer
+- Always looking to learn and grow as a developer
+- Enjoys working in a team as both a leader and collaborator
+- I am a fast learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- API-Trading-Scraper | (Trading advice/ Stock Tracker) - Lead Developer
+
+Reach Me
